@@ -5,11 +5,12 @@
 - [x] Setup canvas
 - [x] Create Paddle class
 - [x] Setup game loop
-- [ ] Create Game class
+- [x] Create Ball class
+- [x] Detect ball and wall collision 
+- [x] Detect ball and paddle collision and
 - [ ] Create Brick class
-- [ ] Create Ball class
-- [ ] Detect ball and wall collision 
-- [ ] Detect ball and paddle collision and
+- [ ] Detect ball and brick collision
+- [ ] Create Game class
 - [ ] Add Game States
 - [ ] Add lives
 - [ ] Setup webpack
