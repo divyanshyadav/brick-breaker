@@ -5,8 +5,8 @@
 - [x] Setup canvas
 - [x] Create Paddle class
 - [x] Setup game loop
-- [ ] Create Brick class
 - [ ] Create Game class
+- [ ] Create Brick class
 - [ ] Create Ball class
 - [ ] Detect ball and wall collision 
 - [ ] Detect ball and paddle collision and
